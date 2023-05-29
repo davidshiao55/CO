@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "ostream": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
+    }
+}
